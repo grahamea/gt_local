@@ -1,2 +1,2 @@
 This is a local text file.
-it had a feature added as part of the feature 1 branch.
+it had a  new feature added as part of the feature 1 branch.
